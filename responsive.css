@@ -57,4 +57,20 @@
         width: 100%;
     }
 
+    .sidebar{
+        position: sticky;
+             top: 15px;
+        width:10%;
+        height:40px;
+        color: white;
+        background-color: dimgrey;
+        letter-spacing: 2px;
+        overflow: hidden;
+        padding-top: 20px;
+      }
+
+    .main{
+        width: 90%;
+    }
+
 }
