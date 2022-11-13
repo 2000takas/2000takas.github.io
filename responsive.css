@@ -33,7 +33,7 @@
     }
 
     .title {
-        height:130px;
+        height:10%;
         width: 100%;
         font-size: 25px;
       }
@@ -46,6 +46,7 @@
     .about-container{
         width: 95%;
         text-align: center;
+        height: 25%;
     }
 
     .main img{
