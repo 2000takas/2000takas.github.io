@@ -58,45 +58,18 @@
     }
 
     .sidebar{
-        display: none;
-        height:10vh;
+        float: left;
+        position: sticky;
+             top: 10px;
+        width: 5%;
+        height: 10vh;
+        color: black;
         background-color: white;
-        letter-spacing: 2px;
-        padding-top: 20px;
+        overflow: hidden;
       }
 
     .main{
         width: 90%;
     }
-
-    .hamburger {
-        position: sticky
-            top: 10px
-        width: 40px;
-        height: 32px;
-      }
-      
-      .hamburger_bar {
-        display: block;
-        width: 100%;
-        height: 4px;
-        position: absolute;
-        left: 0;
-        background: #000;
-      }
-      
-      .hamburger_bar:nth-child(1) {
-        top: 0;
-      }
-      
-      .hamburger_bar:nth-child(2) {
-        top: 50%;
-        transform: translateY(-50%);
-      }
-      
-      .hamburger_bar:nth-child(3) {
-        top: 100%;
-        transform: translateY(-100%);
-      }
 
 }
