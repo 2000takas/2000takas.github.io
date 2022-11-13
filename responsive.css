@@ -40,9 +40,7 @@
       }
 
     .pic1 img{
-        height: 240px;
-        width: 240px;
-        border-radius: 120px;
+        width: 100%;
         text-align: center;
     }
 
