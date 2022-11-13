@@ -24,11 +24,13 @@
         padding: 10px;
     }
 
+    .header-list{
+        display: none;
+    }
+
     .title {
-       height:140px;
+        height:140px;
         width: 100%;
         font-size: 10px;
         padding-left: 5px;
       }
- 
-}
