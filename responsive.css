@@ -67,17 +67,28 @@
         float: left;
         position: sticky;
              top: 10px;
-        width: 15%;
+        width: 25%;
         height: 80vh;
         color: white;
         background-color: dimgray;
         overflow: hidden;
       }
 
-    .main{
-        width: 85%;
+    .sidebar h2{
+        display: none;
     }
 
-    
+    .sidebar a{
+        font-size: 3px;
+    }
+
+    .main{
+        width: 75%;
+    }
+
+    .container p{
+        font-size: 5px;
+    }
+
 
 }
