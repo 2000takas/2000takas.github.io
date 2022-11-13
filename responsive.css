@@ -72,4 +72,8 @@
         width: 90%;
     }
 
+    .link h2{
+        display: block;
+      }
+
 }
