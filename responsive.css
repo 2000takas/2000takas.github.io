@@ -59,12 +59,11 @@
 
     .sidebar{
         position: sticky;
-             top: 15px;
+             top: 10px;
         width:10%;
         height:50px;
         background-color: white;
         letter-spacing: 2px;
-        overflow: hidden;
         padding-top: 20px;
       }
 
