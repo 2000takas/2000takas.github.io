@@ -39,7 +39,9 @@
       }
 
     .pic1 img{
-       width: 80%;
+       height: 240px;
+       width: 240px;
+       border-radius: 120px;
        text-align: center;
     }
 
@@ -102,8 +104,13 @@
         display: block;
         float:left;
         margin-left: 5px;
-        font-size: 3px;
+        font-size: 5px;
+        margin-bottom: 10px;
       }
 
+    .flex{
+        display:flex;
+        flex-flow: column;
+    }
 
 }
