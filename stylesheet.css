@@ -193,15 +193,18 @@ h2{
 }
 
 .hamburger_bar:nth-child(1) {
+  display: none;
   top: 0;
 }
 
 .hamburger_bar:nth-child(2) {
+  display: none;
   top: 50%;
   transform: translateY(-50%);
 }
 
 .hamburger_bar:nth-child(3) {
+  display: none;
   top: 100%;
   transform: translateY(-100%);
 }
