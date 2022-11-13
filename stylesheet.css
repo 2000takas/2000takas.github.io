@@ -7,6 +7,10 @@
   background-color: whitesmoke;
 }
 
+.main img{
+  height: 250px;
+}
+
 .title {
     color:  white;
     background-color: black;
