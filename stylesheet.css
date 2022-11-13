@@ -178,8 +178,9 @@ h2{
 
 .menu-icon {
   color: white;
-  float: right;
+  text-align: center;
   font-size: 25px;
   padding: 21px 0;
+  /* displayをnoneに指定してください */
   display: none;
 }
