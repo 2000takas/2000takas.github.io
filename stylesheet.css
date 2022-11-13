@@ -14,7 +14,7 @@
 .title {
     color:  white;
     background-color: black;
-    height:70px;
+    height:140px;
     font-size: 45px;
     padding-left: 10px;
   }
@@ -175,4 +175,8 @@ h2{
 
 *{
   box-sizing: border-box;
+}
+
+.btn-wrapper-a{
+  display: none;
 }
