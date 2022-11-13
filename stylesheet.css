@@ -179,4 +179,7 @@ h2{
 
 .btn-wrapper-a{
   display: none;
+  float:left;
+  margin-left: 5px;
+  font-size: 3px;
 }
