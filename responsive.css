@@ -58,9 +58,7 @@
     }
 
     .sidebar{
-        position: sticky;
-             top: 10px;
-        width:15%;
+        display: none;
         height:10vh;
         background-color: white;
         letter-spacing: 2px;
@@ -72,9 +70,10 @@
     }
 
     .hamburger {
+        position: sticky
+            top: 10px
         width: 40px;
         height: 32px;
-        position: relative;
       }
       
       .hamburger_bar {
