@@ -14,7 +14,7 @@
 .title {
     color:  white;
     background-color: black;
-    height:140px;
+    height:80px;
     font-size: 45px;
     padding-left: 10px;
   }
@@ -65,7 +65,7 @@
   float: left;
   position: sticky;
        top: 15px;
-  width: 30%;
+  width: 70%;
   height: 80vh;
   color: white;
   background-color: dimgrey;
