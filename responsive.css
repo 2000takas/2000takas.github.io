@@ -17,7 +17,7 @@
       }
 
     .header {
-        height:20px ;
+        height:30px ;
         padding: 10px;
     }
 
@@ -25,7 +25,7 @@
       float: left;
       color: black;
       font-size: 11px;
-      padding-bottom:5px;
+      padding-bottom:10px;
       padding-left:7px;
     }
 
