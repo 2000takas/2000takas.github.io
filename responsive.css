@@ -11,6 +11,7 @@
 
 
 @media (max-width: 670px) {
+    
     .menu-icon{
         display: block;
       }
@@ -23,9 +24,9 @@
     .header-list a{
       float: left;
       color: black;
-      font-size: 7px;
-      padding-bottom:6px;
-      padding-left:5px;
+      font-size: 6px;
+      padding-bottom:10px;
+      padding-left:7px;
     }
 
     .header-logo{
@@ -103,10 +104,9 @@
       .btn-wrapper-a{
         display: block;
         float:left;
-        margin-left: 10px;
-        font-size: 15px;
-        margin-bottom:3px;
-        margin-top: 5px;
+        margin-left: 5px;
+        font-size: 5px;
+        margin-bottom: 10px;
       }
 
     .flex{
