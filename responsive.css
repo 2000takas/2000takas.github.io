@@ -23,9 +23,9 @@
     .header-list a{
       float: left;
       color: black;
-      font-size: 17px;
-      padding-bottom:10px;
-      padding-left:7px;
+      font-size: 20px;
+      padding-bottom:6px;
+      padding-left:15px;
     }
 
     .header-logo{
